@@ -1,1 +1,19 @@
-
+[
+  {
+    "descricao": "eliminatorias NBA 2022",
+    "local": {
+      "nome": "TD Garden",
+      "imagem" "TODO"
+  },
+    "mandante": {
+      "nome": "celtics",
+      "forca": "4,5"
+      "imagem": "TODO" 
+    }
+    "visitante": {
+      "nome": "bucks",
+      "forca": "4,5",
+      "imagem": "TODO" 
+    }
+  }
+]
